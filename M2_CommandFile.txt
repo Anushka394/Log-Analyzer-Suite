@@ -1,0 +1,15 @@
+INSERT [2025-06-27 10:04:22] INFO  - User 'user007' logged out
+DELETE 13
+INSERT [2025-06-27 10:05:10] INFO  - User 'user009' logged out
+INSERT [2025-06-27 10:05:11] INFO  - User 'user007' logged in from IP 192.168.1.163
+INSERT [2025-06-27 10:06:40] INFO  - User 'user009' logged in from IP 192.168.1.35
+INSERT [2025-06-27 10:06:45] INFO  - User 'user006' logged out
+DELETE 124
+INSERT [2025-06-27 10:07:41] INFO  - User 'user006' logged in from IP 192.168.1.134
+INSERT [2025-06-27 10:08:10] INFO  - User 'user020' logged in from IP 192.168.1.88
+INSERT [2025-06-27 10:08:20] INFO  - User 'user003' logged out
+DELETE 156
+INSERT [2025-06-27 10:08:43] INFO  - User 'user003' logged in from IP 192.168.1.21
+INSERT [2025-06-27 10:14:50] INFO  - User 'user003' logged in from IP 192.168.1.20
+INSERT [2025-06-27 10:19:09] INFO  - User 'user003' logged out
+DELETE 162
